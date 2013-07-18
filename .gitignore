@@ -1,5 +1,0 @@
-*.py[oc]
-/MANIFEST
-/*.egg-info/
-/build/
-/dist/
